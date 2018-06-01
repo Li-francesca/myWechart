@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="learnssm-firstssm:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="learnssm-firstssm-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="learnssm-firstssm:war exploded" />
+    </root>
+  </artifact>
+</component>
